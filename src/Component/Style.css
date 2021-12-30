@@ -1,0 +1,61 @@
+.App{
+  background-image : linear-gradient(45deg, orange, slateblue, green);
+  width : 100%;
+  height: 100vh;
+  color : whitesmoke;
+}
+
+.topnav {
+    background-color: black;
+    height: 40px;
+    font-size : 22px;
+    justify-content: space-evenly;
+    display : flex;
+    align-items: center;
+    color: snow;
+    overflow: hidden;
+} 
+
+.topnav Link:hover{
+  color: snow;
+  text-decoration: none;
+}
+
+.navMenu{
+  color: snow;
+  text-decoration: none;
+}
+
+.navMenu:hover{
+  color: slateblue;
+  text-decoration: none;
+}
+
+.row1 {
+  margin-left: 50px;
+  margin-right: 50px;
+  /* margin-top: 50px; */
+  display : flex;
+  flex-direction:row;
+  justify-content:space-between;
+}
+
+.addStudent{
+  margin-top: 20px;
+  border: 2px solid black;
+  background-color: blueviolet;
+  border-radius: 20px;
+  width: 200px;
+  height: 50px;  
+  font-size: 20px;
+  color: whitesmoke;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.tableAlign{
+  width: 90%;
+  margin-left: 5%;
+  background-color: rgba(255,255,255,0.5);
+  opacity: 0.75;
+}
