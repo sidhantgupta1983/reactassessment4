@@ -31,6 +31,21 @@
   text-decoration: none;
 }
 
+.alignImage{
+  width : 25%;
+  height : 25%;
+}
+.msgBox{
+  margin-left: 20%;
+  width: 60%;
+  color: black;
+  background:  0% 0% no-repeat padding-box;
+  border: 10px solid slateblue;
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  border: 1px solid #EDEDED;
+  border-radius: 10px;
+  opacity: 0.5;
+}
 .row1 {
   margin-left: 50px;
   margin-right: 50px;
