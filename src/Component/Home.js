@@ -14,7 +14,7 @@ const Home = () => {
                 </pre>
             </div>
             <br/>  
-            <h2 className='endMsg'>🥳Hurry Up! Dont forget to miss out the early bird offers!!🥳</h2>
+            <h2 className='endMsg'>🎊Hurry Up! Dont forget to miss out the early bird offers!!🎊</h2>
             
         </div>
     )
