@@ -31,12 +31,22 @@
   text-decoration: none;
 }
 
+.displayFlex{
+  display : flex;
+  flex-direction: row;
+  justify-content:space-around;
+  margin-left: 5%;
+  margin-top : 5%;
+  /* margin-right: 5%; */
+}
+
 .alignImage{
-  width : 25%;
-  height : 25%;
+  width : 20%;
+  height : 20%;
+  border-radius: 50%;
 }
 .msgBox{
-  margin-left: 20%;
+  padding-top: 3%;
   width: 60%;
   color: black;
   background:  0% 0% no-repeat padding-box;
@@ -46,6 +56,22 @@
   border-radius: 10px;
   opacity: 0.5;
 }
+
+.endMsg{
+  width: 60%;
+  height: 50px;
+  margin-left: 20%;
+  /* align-items: center; */
+  padding-top: 10px;
+  background:  0% 0% no-repeat padding-box;
+  border: 10px solid slateblue;
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  border: 1px solid #EDEDED;
+  border-radius: 10px;
+  color: black;
+  opacity: 0.5;
+}
+
 .row1 {
   margin-left: 50px;
   margin-right: 50px;
