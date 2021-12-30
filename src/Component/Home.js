@@ -6,7 +6,7 @@ const Home = () => {
         <div>
             <h2>Welcome to Gurukul</h2>
             <div className="displayFlex">
-                <img src={image} alt="Gurukul Image" className="alignImage"/>  
+                <img src={image} className="alignImage"/>  
                 <pre className="msgBox"><h2>A one of its kind, hi-tech international learning center <br/>
                     offering different career and lifestyle-oriented activities</h2>
                     <br/>
