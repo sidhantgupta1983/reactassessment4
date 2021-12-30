@@ -53,6 +53,11 @@
   font-weight: bold;
 }
 
+.addStudent:hover{
+  background-color : whitesmoke;
+  color: blueviolet;
+}
+
 .tableAlign{
   width: 90%;
   margin-left: 5%;
